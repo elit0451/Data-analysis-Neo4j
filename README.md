@@ -93,7 +93,7 @@ Part of the graph :arrow_lower_right:
 ----
 ## Excercise 3 - Spatial analysis <img src="https://geodiscover.alberta.ca/geoportal/catalog/images/icon-layers-pin.png" height="45" align="center">
 
-A **Cypher command** which creates new nodes **Distance** and much more:
+A **Cypher command** which creates new nodes labeled **Distance** and much more:
 </br>
 
 ```javascript
